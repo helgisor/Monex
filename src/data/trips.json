@@ -1,0 +1,38 @@
+[
+  {
+    "img": "../assets/images/business-1.jpg",
+    "alt": "Tian Tan Buddha",
+    "name2": "Investment",
+    "name": "Banking",
+    "button": "View Destination",
+    "delay": "50",
+    "duration": "1000"
+  },
+  {
+    "img": "../assets/images/business-2.jpg",
+    "alt": "Ad Deir",
+    "name2": "Portfolio",
+    "name": "Management",
+    "button": "View Destination",
+    "delay": "50",
+    "duration": "1200"
+  },
+  {
+    "img": "../assets/images/business-3.jpg",
+    "alt": "Humayan Tomb",
+    "name2": "Credit",
+    "name": "Evaluation",
+    "button": "View Destination",
+    "delay": "50",
+    "duration": "1400"
+  },
+  {
+    "img": "../assets/images/business-4.jpg",
+    "alt": "Dunhinda Falls",
+    "name2": "Insurance",
+    "name": "Advice",
+    "button": "View Destination",
+    "delay": "50",
+    "duration": "1600"
+  }
+]
